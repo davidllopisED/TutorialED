@@ -48,3 +48,6 @@ public class PiedraPapelTijera
       }
    }
 }
+//primera edicion del documento
+
+//segunda edicion del documento
